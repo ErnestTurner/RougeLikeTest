@@ -1,0 +1,2 @@
+C:\Users\DJ Jellings\Google Drive\RougeLikeTest\obj\Debug\RougeLikeTest.exe
+C:\Users\DJ Jellings\Google Drive\RougeLikeTest\obj\Debug\RougeLikeTest.pdb
